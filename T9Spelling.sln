@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling", "T9Spelling\T9Spelling.csproj", "{4E81EB75-5777-4E4F-95DA-BB9D4BB13DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9Spelling.Tests", "T9Spelling.Tests\T9Spelling.Tests.csproj", "{A3E3C7DC-CDA4-4513-BA27-ED34763B9513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E81EB75-5777-4E4F-95DA-BB9D4BB13DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E81EB75-5777-4E4F-95DA-BB9D4BB13DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E81EB75-5777-4E4F-95DA-BB9D4BB13DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E81EB75-5777-4E4F-95DA-BB9D4BB13DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E3C7DC-CDA4-4513-BA27-ED34763B9513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E3C7DC-CDA4-4513-BA27-ED34763B9513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E3C7DC-CDA4-4513-BA27-ED34763B9513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E3C7DC-CDA4-4513-BA27-ED34763B9513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76691FBF-347E-4D52-9D01-12B02C33F0CB}
+	EndGlobalSection
+EndGlobal
